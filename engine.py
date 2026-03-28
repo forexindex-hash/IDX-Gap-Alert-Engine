@@ -27,8 +27,8 @@ TICKERS = [
 ]
 
 # 🔔 TELEGRAM CONFIG
-TOKEN = "ISI_TOKEN_LO"
-CHAT_ID = "ISI_CHAT_ID_LO"
+TOKEN = "8471985466:AAFDMvezU7KDQ6E9PAckDK3Z29qvyzPGC7Q"
+CHAT_ID = "1546867811"
 
 # ============================================================
 # 📲 TELEGRAM FUNCTION
